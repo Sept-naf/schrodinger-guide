@@ -1,1 +1,1 @@
-# schrodinger-guide
+slides for learning schrodinger
